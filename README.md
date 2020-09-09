@@ -1,4 +1,4 @@
-Nuvens de palavras - WordCloud
+Nuvem de palavras - WordCloud
 
 Projeto criado com o objetivo de iniciar no aprendizado de Processamento de Linguagem Natural utilizando Python.
 
